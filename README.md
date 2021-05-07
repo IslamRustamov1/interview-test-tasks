@@ -1,6 +1,7 @@
 # Interview test tasks base
 
 Here is where we will share interesting and challenging tasks we encountered during interviews (or anywhere else).
+If you couldn't solve the task - you can just upload task's description, so someone else will try to solve it for you.
 
 # Contributing
 
