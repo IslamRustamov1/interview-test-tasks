@@ -3,7 +3,7 @@
 Given a linked list, implement a function which will check whether this list has a loop or not.
 
 ```
-function isListLinked(head) {
+function isListLooped(head) {
   // ...
 }
 ```
