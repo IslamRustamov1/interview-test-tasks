@@ -8,7 +8,7 @@ Given a linked list implement a function which check whether this list has a loo
  
  Answer: false
  
- Why: last node points to null, there is not loops
+ Why: last node points to null, there is no loops
 ##
  list with nodes: 
    
