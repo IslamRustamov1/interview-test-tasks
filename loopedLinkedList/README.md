@@ -10,7 +10,9 @@ Given a linked list implement a function which check whether this list has a loo
  
  Why: last node points to null, there is not loops
 ##
- list with nodes: 1 -> 2 -> 3
+ list with nodes: 
+   
+                  1 -> 2 -> 3
  
                   ^         |
                   
