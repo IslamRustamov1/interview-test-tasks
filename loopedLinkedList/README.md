@@ -14,7 +14,7 @@ function isListLooped(head) {
  
  Answer: false
  
- Why: last node points to null, there is no loops
+ Why: there are no nodes which are pointing to the previous nodes, no loop
 ##
  list with nodes: 
    
